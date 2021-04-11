@@ -1,13 +1,29 @@
+body{
+    margin:0px;
+    padding: 0px;
+}
+#panorama{
+    height: 200px;
+    width: 100%;
+    position: absolute;
+    z-index: 0;
+}
 #logo{
     height:200px;
-}
-
-#site_slogan{
-    padding-left:100px;
-    font-size:2rem;
+    position:relative;
+    left:200px;
+    z-index: 1;
 }
 
 #site_titre{
-    padding-left:60px;
-    font-size:3rem;
+    padding-left:20px;
+    font-size:2rem;
+}
+
+#presentation, #informations{
+    border:solid;
+    border-color:rgb(35, 156, 172);
+    border-radius: 50px;
+    text-align: justify;
+    line-height: 2.5;
 }
