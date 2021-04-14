@@ -8,15 +8,20 @@ body{
     position: absolute;
     z-index: 0;
 }
+
+#banniere{
+    background-image: url("../img/ballon_alsace.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 #logo{
     height:200px;
-    position:relative;
-    left:200px;
     z-index: 1;
+    position: relative;
 }
 
 #site_titre{
-    padding-left:20px;
     font-size:2rem;
 }
 
