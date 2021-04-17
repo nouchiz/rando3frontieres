@@ -25,7 +25,7 @@ body{
     font-size:2rem;
 }
 
-#presentation, #informations, #adhesion{
+#membres{
     border:solid;
     border-color:rgb(35, 156, 172);
     border-radius: 50px;
