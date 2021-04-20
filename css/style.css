@@ -1,6 +1,8 @@
 body{
     margin:0px;
     padding: 0px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
 }
 #panorama{
     height: 200px;
@@ -10,7 +12,7 @@ body{
 }
 
 #banniere{
-    background-image: url("../img/ballon_alsace.jpg");
+    background-image: url("../img/photos/ballon_alsace.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -19,6 +21,7 @@ body{
     height:200px;
     z-index: 1;
     position: relative;
+    left: 200px
 }
 
 #site_titre{
