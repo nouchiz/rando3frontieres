@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /https://nouchiz.github.io/rando3frontieres/
+
+Sitemap: https://nouchiz.github.io/rando3frontieres/sitemap.xml
+
