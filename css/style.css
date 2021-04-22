@@ -28,6 +28,10 @@ body{
     font-size:2rem;
 }
 
+#page_en_cours{
+    margin-left: 10px;
+}
+
 #david, #christophe, #valerie{
     border:solid;
     border-color:rgb(0, 0, 0);
