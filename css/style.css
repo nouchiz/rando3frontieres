@@ -19,9 +19,17 @@ body{
     }
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 1024px) {
 #banniere{
     background-image: url("../img/photos/vosges-alsace.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+#banniere{
+    background-image: url("../img/photos/chateau_girsberg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     }
@@ -57,9 +65,13 @@ body{
 }
 .container-lg{
     text-align: justify;
-    line-height: 2.5;
+    line-height: 1.5;
 }
 
 .carousel-item{
     text-align: justify;
+}
+
+.card-title{
+    text-decoration: underline;
 }
