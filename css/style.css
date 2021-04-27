@@ -27,7 +27,7 @@ body{
     }
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 600px) {
 #banniere{
     background-image: url("../img/photos/chateau_girsberg.jpg");
     background-repeat: no-repeat;
@@ -81,3 +81,9 @@ body{
 .card-title{
     text-decoration: underline;
 }
+
+@media only screen and (max-width: 768px) {
+    #navigationPrev, #navigationNext{
+        display: none;
+        }
+    }
