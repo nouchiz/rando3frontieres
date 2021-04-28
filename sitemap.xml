@@ -1,43 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
 
 <url>
   <loc>https://nouchiz.github.io/rando3frontieres/index.html#</loc>
-  <lastmod>2021-04-20T20:39:19+00:00</lastmod>
+  <lastmod>2021-04-28T12:04:11+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://nouchiz.github.io/rando3frontieres/programme.html</loc>
-  <lastmod>2021-04-20T20:39:19+00:00</lastmod>
+  <loc>https://nouchiz.github.io/rando3frontieres/index.html</loc>
+  <lastmod>2021-04-28T12:04:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://nouchiz.github.io/rando3frontieres/coups_de_coeur.html</loc>
-  <lastmod>2021-04-20T20:39:19+00:00</lastmod>
+  <loc>https://nouchiz.github.io/rando3frontieres/programme.html</loc>
+  <lastmod>2021-04-28T12:04:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nouchiz.github.io/rando3frontieres/bonnes_adresses.html</loc>
+  <lastmod>2021-04-28T12:04:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://nouchiz.github.io/rando3frontieres/nous_rejoindre.html</loc>
-  <lastmod>2021-04-20T20:39:19+00:00</lastmod>
+  <lastmod>2021-04-28T12:04:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://nouchiz.github.io/rando3frontieres/index.html</loc>
-  <lastmod>2021-04-20T20:39:19+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
   <loc>https://nouchiz.github.io/rando3frontieres/documents/cert_med_FFRP_2021.pdf</loc>
-  <lastmod>2021-04-20T20:39:19+00:00</lastmod>
+  <lastmod>2021-04-28T12:04:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://nouchiz.github.io/rando3frontieres/documents/inscription_R3F.pdf</loc>
-  <lastmod>2021-04-20T20:39:19+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://nouchiz.github.io/rando3frontieres/documents/statuts.docx</loc>
-  <lastmod>2021-04-20T20:39:19+00:00</lastmod>
+  <lastmod>2021-04-28T12:04:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
