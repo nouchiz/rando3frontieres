@@ -69,3 +69,9 @@ body{
         display: none;
         }
     }
+
+ @media (max-width: 994px) {
+    #fleche{
+        transform: rotate(90deg);
+        }
+    }
